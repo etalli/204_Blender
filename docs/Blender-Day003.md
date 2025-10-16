@@ -1,4 +1,3 @@
-
 # Blender Day003
 
 ## Day 002でやったこと
